@@ -13,4 +13,14 @@ Testlauf gluon-ffdon-0.6.0b+exp2016032702 --> make dirclean, make -j1 GLUON_TARG
 --> ungetestet
 
 Testlauf gluon-ffdon-0.6.0c+exp2016032703 --> make update, make dirclean, make -j1 GLUON_TARGET=ar71xx-generic
---> Test läuft gerade
+--> Ohne Fehler durchgelaufen
+
+--> Wo liegt der Unterschied zu dem risch gezogenen Branch
+--> dort scheitert das backen
+
+
+Testlauf gluon-ffdon-0.6.0c+exp2016032703
+jetzt mit angepasster Site:
+- Versionsnummer
+- ohne Französisch
+- auf Sonau-Ries angepasstem Txt
