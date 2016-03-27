@@ -25,4 +25,11 @@ jetzt mit angepasster Site:
 - ohne Französisch
 - ohne Englisch
 - auf Donau-Ries angepasstem Txt
-- evtl. mit Signatur
+- evtl. mit Signatur --> https://www.youtube.com/watch?v=0yw8fHd8Ed8
+durch
+- clonen des Verzeichnisses mgk@gw01:~/ffdon-makegluon/gluon-ffdon-0.6.1d+exp2016032801$
+- git clone https://github.com/ffdon/site-ffdon.git site
+- make update
+- make dirclean
+- make -j1 GLUON_TARGET=ar71xx-generic
+- 
