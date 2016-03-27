@@ -19,8 +19,10 @@ Testlauf gluon-ffdon-0.6.0c+exp2016032703 --> make update, make dirclean, make -
 --> dort scheitert das backen
 
 
-Testlauf gluon-ffdon-0.6.0c+exp2016032703
+Testlauf gluon-ffdon-0.6.1d+exp2016032801
 jetzt mit angepasster Site:
 - Versionsnummer
 - ohne Französisch
-- auf Sonau-Ries angepasstem Txt
+- ohne Englisch
+- auf Donau-Ries angepasstem Txt
+- evtl. mit Signatur
