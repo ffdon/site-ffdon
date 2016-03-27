@@ -8,7 +8,7 @@ gluon-config
 
 Testlauf gluon-ffdon-0.6.0a+exp2016032701 --> original kopiert, make -j1 GLUON_TARGET=ar71xx-generic
 
-Testlauf gluon-ffdon-0.6.0b+exp2016032702 --> make clean, make GLUON_TARGET=ar71xx-generic
+Testlauf gluon-ffdon-0.6.0b+exp2016032702 --> make dirclean, make -j1 GLUON_TARGET=ar71xx-generic
 
-Testlauf gluon-ffdon-0.6.0c+exp2016032703 --> make update, make clean, make GLUON_TARGET=ar71xx-generic
+Testlauf gluon-ffdon-0.6.0c+exp2016032703 --> make update, make dirclean, make -j1 GLUON_TARGET=ar71xx-generic
 
